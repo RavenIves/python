@@ -18,3 +18,8 @@ from random import random
 
 testVariable = 5
 print(testVariable)
+
+if testVariable > 2:
+    print ("if loop works")
+
+
